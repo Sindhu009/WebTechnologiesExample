@@ -1,0 +1,17 @@
+h3 {
+  color: whitesmoke;
+  font-size: 30px;
+  font-family: cursive;
+}
+
+p {
+  color: whitesmoke;
+  font-size: 30px;
+  font-family: cursive;
+}
+
+.square {
+  height: 30px;
+  width: 30px;
+  background-color: whitesmoke;
+}
